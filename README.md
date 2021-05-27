@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LifeCoachRay
 - 👀 I’m interested in Blockchain development
-- 🌱 I’m currently learning crypto
-- 💞️ I’m looking to collaborate on writing conrtacts and developing blockchains
+- 🌱 I’m currently into the development of crypto
+- 💞️ I’m looking to collaborate on writing contracts and developing blockchains
 - 📫 How to reach me 1-254-780-5869
 
 <!---
